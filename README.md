@@ -23,7 +23,7 @@ Exemplo: site Daring Fireball
 [![texto alt](daringfireball.png)](https://daringfireball.net)
 
 # Incluindo arquivo pdf
-Artigo: [Artigo](GRAPHS_IN_STATISTICAL_ANALYSIS_anscombe1973.pdf)
+Artigo: [Graphs in statistical analysis](GRAPHS_IN_STATISTICAL_ANALYSIS_anscombe1973.pdf)
 
 # Referência
 Vídeo: https://youtu.be/fDyGs18_ITQ
