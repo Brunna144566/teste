@@ -19,3 +19,8 @@ Exemplo: site Daring Fireball
 ## Inclindo imagens
 ![texto alt](daringfireball.png)
 
+## Imagem como link
+[![texto alt](daringfireball.png)](https://daringfireball.net)
+
+# Referência
+Vídeo: https://youtu.be/fDyGs18_ITQ
